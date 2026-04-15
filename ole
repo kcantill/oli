@@ -1,8 +1,1 @@
-aws cloudformation delete-stack \
-    --stack-name cfstk-0267-000-apif3-inquirycustomer-Public-417570831362
-
-aws cloudformation delete-stack \
-    --stack-name cfstk-0267-000-f3-inquirycust-byid-417570831362
-
-aws cloudformation delete-stack \
-    --stack-name cfstk-0267-000-f3-inquirycust-417570831362
+*

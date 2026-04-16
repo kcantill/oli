@@ -1,3 +1,1 @@
 #
-aws cloudformation delete-stack \
-    --stack-name cfstk-0267-000-apif3-accountbankingtransfer-417570831362

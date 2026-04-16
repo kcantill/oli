@@ -1,1 +1,6 @@
-#
+aws cloudformation delete-stack \
+    --stack-name cfstk-0267-000-apif3-loancreateanddisbursement-417570831362
+
+
+aws cloudformation delete-stack \
+    --stack-name cfstk-0267-000-f3-loancrtdsb-417570831362
